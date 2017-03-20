@@ -1,0 +1,7 @@
+.page{
+    &_place_home{
+        background: url(images/page.jpg);
+        background-size: cover;
+
+    }
+}

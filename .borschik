@@ -1,0 +1,11 @@
+{
+"paths" : {
+            "./*.blocks/**/*.jpg": "./"
+        },
+    "freeze_paths" : {
+        "./*.blocks/**/*.jpg": "./desktop.bundles/images"
+    }
+
+
+}
+
